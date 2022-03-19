@@ -46,6 +46,32 @@ Yes, it is free and *open-source under MIT License*, just don't think that you h
 
 You can use the app from GitHub for learning purposes, I would like people to learn from my work 😇!
 
+### Screenshots
+
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1647673107664/KKtW85Ksk.png)
+
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1647673129536/QNuf_0Mw2.png)
+
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1647673149355/pCJKlKS3S.png)
+
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1647673173714/KctpJg06n.png)
+
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1647673192400/3uK9i6YFQ.png)
+
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1647673212332/-O2qSmTjm.png)
+
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1647673223862/SgZHEszSd.png)
+
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1647673239853/IlrIIAAgv.png)
+
 ### Outro
 
 I hope you liked Foody! For the next time! See you!
