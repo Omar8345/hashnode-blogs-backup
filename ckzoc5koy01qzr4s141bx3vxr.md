@@ -65,7 +65,7 @@ Improving your memory! There are a number of different things that you can do to
 
 Told by : Steve Jobs - Co-Founder of Apple
 
-Let me tell you a story which happend with me in real life, when I was young in school, when a new language to learn was mandatory on me, I was being asked to choose between German/French . I choose German as Germany is full of lots of coders, which then I am able to get a job opportunity. I realized after a few weeks of starting learning, although I started learning German from home before start of school to get an idea and to be confident and comfortable while learning a new language for me which is German. When I was learning German, I feel that I focus more on German and have more interest to learn German rather than like learning English Grammar like Past Perfect or Present Simple. I felt that my mind is more open and more excited to learn new things.! ( *this story happend in real life* )
+Keep learning new languages to expand! Learning new things and getting skills is like a light which lights your world! Never stop learning 🙏!
 
 ----------------------------------------------------------------------------------------
 
@@ -95,7 +95,7 @@ Learning in multiple ways help increase your knowledge, as each way of learning,
 
 Told by : Phil Collins - Drummer
 
-When I was young, my father was advising me to study what I took in the day, each day. And then I come and teach him what I had learned today. I was feeling comfortable with this as this makes me feel more like a teacher and even inspires me with more energy to learn. As teaching someone else makes you discuss ideas and share ideas too. Which connects minds.
+Most kids, and normal people *adults* do teach things which they learned, which actually connects minds and who is teaching, feels more comfortable, and even if he did understand something wrong, he will be still corrected by others.
 
 Our sponsor:
 *Expo 2020 Dubai* 
@@ -133,8 +133,7 @@ For example, if you are learning a new language, you might associate the new voc
 
 Told by : David Packard - Electrical Engineer
 
-When I was young learning German for the first time, although I didn't do such lots of mistakes, but when I do, I feel happy too. As if you make mistakes, you are learning something new which you don't know, or you know, but you know it ***'wrong'*** . So I was feeling happy and the teacher feels happy too as I am learning more overtime and you're maybe not feeling about that. So I wasn't afraid to make mistakes, I was happy.!
-
+For example, if you are learning a new language, you shouldn't be afraid of making mistakes, as making mistakes is same as learning new things, as if a point is in your mind, it can be corrected which also means **"learning a new thing"**.
 -----------------------------------------------------------------------------------
 
 ## Final Quote
