@@ -78,6 +78,12 @@ I hope you liked Foody! For the next time! See you!
 
 Just don't forget to up-vote and comment with your suggestions!
 
+> **Help spread the love with me! Like the Twitter Tweet 💖!**
+
+%[https://twitter.com/DevOmar100/status/1505524447322718214]
+
+
+
 Hope me to win!
 
 GitHub Repo: [Omar8345/recipe-management-app](https://github.com/Omar8345/recipe-management-app/)
