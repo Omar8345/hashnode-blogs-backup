@@ -12,7 +12,7 @@ I'm Omar Mostafa, **AKA as Amoora**. I'm a programmer and designer, also as you 
 
 ### Fun area #1
 
-**Just to know, I am currently 13 😅, interested in programming since 6 years old**
+**Just to know, I was interested in tech from long ago, around I was 6**
 
 ### Why I started programming?
 
