@@ -14,7 +14,7 @@ I have a list of emojis, of course each emoji has been repeated more than one ti
 
 ***Disclaimer ⚠️: Note the competition or the rewards mentioned in the video are not available, as the competition has ended!***
 
-<iframe src="https://scrimba.com/learn/codeweeks/-filter-duplicate-emojis-challenge-co9e84683a1a75f69bfa6a49d" width="1000" height="600"></iframe>
+<iframe src="https://scrimba.com/learn/codeweeks/-filter-duplicate-emojis-challenge-co9e84683a1a75f69bfa6a49d" width="100%" height="600"></iframe>
 
 ------------------------------------------------------------
 
@@ -24,7 +24,7 @@ I have a list of emojis, of course each emoji has been repeated more than one ti
 
 *Comments has been added*
 
-<iframe src="https://scrimba.com/scrim/cRMwJwfV" width="1000" height="600"></iframe>
+<iframe src="https://scrimba.com/scrim/cRMwJwfV" width="100%" height="600"></iframe>
 
 --------------------------------------------------------
 
