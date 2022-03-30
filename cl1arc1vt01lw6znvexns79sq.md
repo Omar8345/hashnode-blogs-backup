@@ -14,7 +14,7 @@
 
 ### We will answer
 
-- ***What is an OS? --***
+- ***What is an Operating-System? --***
 - ***What is Windows? --***
 - ***How Windows started? --***
 - ***What is Windows 11? --***
@@ -22,7 +22,7 @@
 
 --------------------------------------------------------------
 
-### What is an OS?
+### What is an Operating-System?
 
 You know that a computer is 2 things, **software** and *hardware*.
 
@@ -57,14 +57,14 @@ A) Software
 
 To be honest, in 3 words:
 
-*Windows is OS*
+*Windows is Operating-System*
 
 To find OS:
 
-For Desktops : Lot of us knows about the three major OS platforms
+For Desktops : Lot of us knows about the three major Operating-System platforms
 
 - Mr. Microsoft Windows
-- Mr. Apple Mac OS
+- Mr. Apple Mac Operating-System
 - Mr. Linux
 
 Also it is used in mobiles, (Windows Phone) and also I think Windows Tablet?!
@@ -83,13 +83,13 @@ So Windows is one of those!
 
 > ***Source: [The Guardian](https://www.theguardian.com/technology/2014/oct/02/from-windows-1-to-windows-10-29-years-of-windows-evolution#:~:text=This%20is%20where%20it%20all,relied%20on%20command%2Dline%20input.)***
 
-%[https://media.giphy.com/media/XKFAdbHEHRu0cgvzCy/giphy-downsized.gif]
+%[https://media.giphy.com/media/XKFAdbHEHRu0cgvzCy/giphy.gif]
 
 ------------------------------------------------------------
 
 ### What is Windows 11?
 
-Windows 11 is one of the twelve editions (*versions*) of **The Microsoft Windows OS Family 😅**, as like if we have a special pen called **Peny-Pen**, which has 3 editions, *Peny-Pen Red* 'n *Peny-Pen Blue* 'n finally *Peny-Pen Green* :).
+Windows 11 is one of the twelve editions (*versions*) of **The Microsoft Windows O-S Family 😅**, as like if we have a special pen called **Peny-Pen**, which has 3 editions, *Peny-Pen Red* 'n *Peny-Pen Blue* 'n finally *Peny-Pen Green* :).
 
 So Microsoft said that *Windows 11* will be the latest and last version of Windows and they will work on updating it only forever, until *the nice Windows 10 gets out of support 🤣*
 
