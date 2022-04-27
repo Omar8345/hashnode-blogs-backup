@@ -36,12 +36,12 @@ Do one of the following and get a **handy dady coffee on [buymeacoffee.com](http
 - **Submit an approved feature request**
 - **Fix a reported bug**
 - **Implement an approved feature request**
-- **Write an article about your experiences with Selenideium Element Inspector. In this case, you can be sure I will share your article on Twitter and LinkedIn too.**
+- **Write an article about your experiences with Selenideium Element Inspector. In this case, you can be sure I (Miki) will share your article on Twitter and LinkedIn too.**
 
 Ahem, let's get back into our review!
 
 So, it is so easy to use it. Also, @[Miki Szeles](@mszeles) would be happy to hear your review 😊
-[Text](Link)
+
 ## Important links 🔗
 
 - **[GitHub](https://github.com/mszeles/selenideium-element-inspector)**
