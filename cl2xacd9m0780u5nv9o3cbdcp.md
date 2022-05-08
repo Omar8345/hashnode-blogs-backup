@@ -283,7 +283,7 @@ Change `os.environ.get('DATABASE_URL')` to `'sqlite:///urls.db'`. We are done, j
 
 ## The End!
 
-Thanks for reading this blog, hope you like it and learnt something you!!!
+Thanks for reading this blog, hope you like it and learnt something helpful!!!
 
 - **Live Demo:** linky-web.herokuapp.com
 - **GitHub Repo:** [OmarDev100/linky](https://github.com/omardev100/linky)
