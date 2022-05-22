@@ -36,7 +36,7 @@ Let's divide this section into three:
 
 ### 1.1 - What is Gatsby? - (Framework)
 
-Regarding **framework**, **Gatsby **is a full-stack frontend framework that comes with everything you need out of the box.
+Regarding **framework**, **Gatsby** is a full-stack frontend framework that comes with everything you need out of the box.
 
 ### 1.2 - What is Gatsby? - (Cloud)
 
@@ -44,7 +44,7 @@ The relationship between **Gatsby** and the *cloud*, it is a unified cloud platf
 
 ### 1.3 - What is Gatsby? - (Concierge)
 
-**Gatsby point of view is also to focus on concierge, their expert services that are tailored to help your team get the most out of your Gatsby deployment.
+**Gatsby point of view is also to focus on concierge, their expert services that are tailored to help your team get the most out of your Gatsby deployment.**
 
 ---------------------------------------------------
 
