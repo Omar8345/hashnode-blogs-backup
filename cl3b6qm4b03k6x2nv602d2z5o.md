@@ -16,21 +16,21 @@ A cloud platform refers to "***the operating system and hardware of a server in 
 
 There are several types of cloud platforms which fits for different purposes. Which includes:
 
- - **Public Cloud:** Public cloud platforms are third-party service providers that provide computing recourses and more over the internet. Examples are like Google Cloud, Amazon Web Services (AWS), Microsoft Azure, and DigitalOcean.
+ - **Public Cloud:** Public cloud platforms are third-party service providers that provide computing resources and more over the internet. Examples are like Google Cloud, Amazon Web Services (AWS), Microsoft Azure, and DigitalOcean.
 
- - **Private Cloud:** A private cloud platform is made exclusively for a single organization, or maybe a single person, which no one other uses it expect you or your organization. It's usually hosted (on-site | at your org) or sometimes hosted by a third-party service provider.
+ - **Private Cloud:** A private cloud platform is made exclusively for a single organization, or maybe a single person, which no one other uses it except you or your organization. It's usually hosted (on-site | at your org) or sometimes hosted by a third-party service provider.
 
  - **Hybrid Cloud:** Hybrid Cloud is a combination between a **Private** and **Public** cloud platforms. Both data and applications seamlessly pass between the two (private and public), which gives the organization more flexibility.
 
 ### Uses of cloud platforms
 
-Here, we'll just pass an example, and you can seamlessly understand the rest. We are talking about that I have a company/shop website which I would like to host it on the internet. Let's say I own recourses which are enough to host the website and make it fast and such on, and I don't want to use them, or you can also say that you don't have enough recourses to host the website and need to buy the needed recourses with someone who should maintain them and keep them up-to-date.
+Here, we'll just pass an example, and you can seamlessly understand the rest. We are talking about that I have a company/shop website which I would like to host it on the internet. Let's say I own resources which are enough to host the website and make it fast and such on, and I don't want to use them, or you can also say that you don't have enough resources to host the website and need to buy the needed resources with someone who should maintain them and keep them up-to-date.
 
-Here comes the work of a cloud platform, there are many cloud platforms, such as AWS, Azure, Google Cloud, and last but not least DigitalOcean, I recommend AWS, we'll know why later on. AWS has a data center, with many computers (large computers which can do things that a normal computer couldn't do), you can rent a recourse from AWS or the cloud platform you prefer by using 2 common plans:
+Here comes the work of a cloud platform, there are many cloud platforms, such as AWS, Azure, Google Cloud, and last but not least DigitalOcean, I recommend AWS, we'll know why later on. AWS has a data center, with many computers (large computers which can do things that a normal computer couldn't do), you can rent a resources from AWS or the cloud platform you prefer by using 2 common plans:
 
-- 1. Pay-as-you-go is a common plan which you can pay as you use the recourses, will never stop unless reaches the limit of money you set or when you manually set it.
+- 1. Pay-as-you-go is a common plan which you can pay as you use the resources, will never stop unless reaches the limit of money you set or when you manually set it.
 
-- 2. And another way to pay is to buy limited use of the recourse, which means you will buy a recourse and use it like for example host a website, and your bandwidth will be let's say 10 GB, when your bandwidth reaches 0, the recourse will stop.
+- 2. And another way to pay is to buy limited use of the resources, which means you will buy a resources and use it like for example host a website, and your bandwidth will be let's say 10 GB, when your bandwidth reaches 0, the resources will stop.
 
 Now we are done of cloud platforms story, let's get on why choose AWS.
 
