@@ -106,7 +106,7 @@ You should see a local link, head into it or [http://127.0.0.1:5000/](http://127
 
 ### Special thanks to Vedant Singhal
 
-**Vedant** a developer in high school from **India**! **Vedant** hopefully helped me a lot in this project, so I would like to thank him here!
+**Vedant** a developer in high school from **India**! **Vedant** helped me a lot in this project, so I would like to thank him here!
 
 **Thank you Vedant!**
 
