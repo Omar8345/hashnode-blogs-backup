@@ -1,6 +1,6 @@
 ## Introducing CodeGuard: The open-source tool to obfuscate your JavaScript or Python code
 
-**P**robably most of us know that **copying and pasting from GitHub, Stackoverflow, etc.** *doesn't* make you a **programmer**.
+**P**robably most of us know that **copying and pasting from GitHub, Stack Overflow, etc.** *doesn't* make you a **programmer**.
 
 Also, **it's not great for** *someone to steal your code* and **use it pretending that he made that code/script**, right?
 
