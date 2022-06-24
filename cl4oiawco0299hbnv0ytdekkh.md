@@ -6,6 +6,8 @@ Also, **it's not great for** *someone to steal your code* and **use it pretendin
 
 **Here CodeGuard comes!** *The open-source tool to obfuscate your JavaScript or Python code in no time!*
 
+%[https://giphy.com/gifs/abcnetwork-marvel-agents-of-shield-agentsofshield-UQJmx6TG578HeyuT0V]
+
 ## How I got this inspiration?
 
 %[https://giphy.com/gifs/sesamestreet-Zd5ZVGn3ZvYKl7U6MW]
@@ -40,17 +42,26 @@ As **I need to use JS/PY** to obfuscate, although they run at the client side, I
 
 With the help of Flask, I can make a API with pretty good functionalities which can help me in the project, and with the existence of Linode, I can host my API on a Linux server in the cloud!
 
+## Use of Linode
+
+Use of Linode...
+Linode provided us with one of the best tools to setup terminals / servers to host and deploy the core feature, our **API**. Apart from that in the development phase we used Linode to host the project and collaborate on it, until it was in build phase and we could use Vercel to deploy it.
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1656056240791/A4Ii0xhqT.png align="left")
+
+> The amount of storage and network bandwidth given is more than enough for an open-source and fully scalable project team to get started with!
+
 ## The tech-stack I used + Why did I use it?
 
-- **[Next.js](https://nextjs.org/)** - *Making the front-end design of the website*
+- **[Next.js](https://nextjs.org/)** - *The entirety of the webpage!*
 
-- **HTML/CSS** - *Making front-end*
+- **HTML/CSS** - *Touches of HTML and CSS were used to add extra detailed styling and div functionality (Forms)*
 
-- **[JavaScript](https://javascript.com)** - *Back-end, for e.g. modal (alert) and link validation*
+- **[JavaScript](https://javascript.com)** - *Was used to allow transitions and smooth navigation along the webpage and validation of user input on client side itself*
 
 - **[Linux](https://linux.org) [Ubuntu](https://ubuntu.com) ([Linode](https://linode.com))** - *Host the API*
 
-- **[Vercel](https://vercel.com)** - *Host the website*
+- **[Vercel](https://vercel.com)** - *Host the website!*
 
 - **[Python](https://python.org) ([Flask](https://flask.palletsprojects.com/))** - *Used to make the API*
 
@@ -115,6 +126,8 @@ Check out Vedant on Social Media:
 - **[GitHub - Ved235](https://github.com/Ved235)**
 - **[Buymeacoffee - Ved235](https://www.buymeacoffee.com/ved235)**
 - **[Vedant's Blog](https://learnwithved.hashnode.dev/)**
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1656056348747/nxBXhpeP6.png align="left")
 
 ### We would like to hear your feedback and suggestions in the comments below!
 
