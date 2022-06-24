@@ -72,13 +72,13 @@ Linode provided us with one of the best tools to setup terminals / servers to ho
 It's really simple to use our API, in JavaScript, it only requires one line of code!
 
 ```js
-window.location = "https://api.codeguard.tech/?link=<code link here>&lang=<js or py>
+window.location = "https://api.codeguard.tech/?link=<code link here>&lang=<js or py>"
 ```
 
 For example:
 
 ```js
-window.location = "https://api.codeguard.tech/?link=https://gist.githubusercontent.com/Omar8345/1038a82e7db5f81d0722a4f2ab701924/raw/b213490f419b1d67de6a6a1647557934b97fc1ef/nicecode.js&lang=js
+window.location = "https://api.codeguard.tech/?link=https://gist.githubusercontent.com/Omar8345/1038a82e7db5f81d0722a4f2ab701924/raw/b213490f419b1d67de6a6a1647557934b97fc1ef/nicecode.js&lang=js"
 ```
 
 ### Hosting the API on your machine
