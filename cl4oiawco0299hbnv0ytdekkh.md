@@ -117,3 +117,28 @@ Check out Vedant on Social Media:
 - **[Vedant's Blog](https://learnwithved.hashnode.dev/)**
 
 ### We would like to hear your feedback and suggestions in the comments below!
+
+--------------------------------------------------------------
+
+**Edit on 24/06/2022**:
+
+**It's version 1.1 release!**
+
+Added some improvements and fixed some bugs in the website and API
+
+Website:
+   - **Error on wrong language selection**
+   - **Errors with better details**
+ 
+
+API:
+   - **No need now to mention `lang` while using the API**
+   - **Landing page instead of error**
+   - **`redirect` has been made if you don't want to redirect to the `api.codeguard.tech` if you are using this with your website especially using `window.location`**
+
+Extra:
+   **In `__init__.py` in `API`, if it's `JS` code, it runs the things which obfuscates Python code, the code has been updated with the correct code, sorry for that!** (the code in the repo)
+
+**Did you find any bugs?**
+
+Tell us in the comments!
