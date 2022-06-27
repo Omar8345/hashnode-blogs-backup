@@ -93,7 +93,7 @@ window.location = "https://api.codeguard.tech/?link=https://gist.githubuserconte
 
 - And it will open up **VSC** in the folder, just run in the terminal the following command:
 
-`$env:FLASK_APP="__init__.py && flask run"`
+`$env:FLASK_APP="__init__.py && flask run`
 
 You should see a local link, head into it or [http://127.0.0.1:5000/](http://127.0.0.1:5000/) and you should find some kind of error, just simply ignore it, now add the `link` and `lang` parameters value and you should be good to go!
 
