@@ -2,7 +2,7 @@
 
 ## My review for the Craft Conference 2022
 
-I am Omar. A certified software developer and a designer. I'm from **Egypt** and I'm based in the United Arab Emirates. I have taken many programming courses and I am experienced in many popular programming languages including **Python, Java, and JavaScript**.
+I am Omar. A certified software developer and a designer.  I have taken many programming courses and I am experienced in many popular programming languages including **Python, Java, and JavaScript**.
 
 Craft Conference 2022 was one of the conferences I enjoyed where I learned many things, one of my favourite talks was from Debbie O'Brien, who works [at] Microsoft as a Senior Program Manager where she talked about Testing Web Applications with Playwright and how to make automatic easy tests in no time without making it hard on you, taking a long time even to learn how and build, and so much on, so that's Playwright.
 
