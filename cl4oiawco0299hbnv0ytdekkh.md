@@ -172,7 +172,7 @@ What's new? 🎉
 
 FIRST OF ALL - You can now provide a GitHub Repo, all the JavaScript and Python code in the Repo will be obfuscated and renamed with the old (non-obfuscated) file name and any other files won't be effected, it's awesome!
 
-What you will even love more 💌 - Here is dark mode! You can switch to dark mode by clicking the button in the footer!
+What you will even love more 💌 - Here is dark mode! You can switch to dark mode by clicking the button in the footer! (now, it's in the bottom right)
 
 Check out the GitHub Repo:
 
