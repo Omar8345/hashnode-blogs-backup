@@ -159,3 +159,25 @@ Extra:
 **Did you find any bugs?**
 
 Tell us in the comments!
+
+---------------------------------------------------
+
+**Edit on 30/06/2022 (few hours before the deadline time):**
+
+Hey everyone!!!
+
+I just released (announced) the CodeGuard V1.2 release!!!
+
+What's new? 🎉
+
+FIRST OF ALL - You can now provide a GitHub Repo, all the JavaScript and Python code in the Repo will be obfuscated and renamed with the old (non-obfuscated) file name and any other files won't be effected, it's awesome!
+
+What you will even love more 💌 - Here is dark mode! You can switch to dark mode by clicking the button in the footer!
+
+Check out the GitHub Repo:
+
+Stay tuned with the future updates
+
+Also, we launched a Ko-fi page to support us! Check it out!
+
+Let's support CodeGuard! https://ko-fi.com/CodeGuard
