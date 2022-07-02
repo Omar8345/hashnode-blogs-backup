@@ -174,10 +174,10 @@ FIRST OF ALL - You can now provide a GitHub Repo, all the JavaScript and Python 
 
 What you will even love more 💌 - Here is dark mode! You can switch to dark mode by clicking the button in the footer! (now, it's in the bottom right)
 
-Check out the GitHub Repo:
+Check out the GitHub Repo: [Omar8345/CodeGuard](https://github.com/Omar8345/CodeGuard)
 
 Stay tuned with the future updates
 
 Also, we launched a Ko-fi page to support us! Check it out!
 
-Let's support CodeGuard! https://ko-fi.com/CodeGuard
+Let's support CodeGuard! [ko-fi.com/CodeGuard](https://ko-fi.com/CodeGuard)
