@@ -1,5 +1,7 @@
 ## How to setup authentication with Node.js CLI and Prisma
 
+> *Originally published on [**DevDojo**](https://devdojo.com/omarthedev/how-to-setup-authentication-with-nodejs-cli)*
+
 Hello there! Today we will be integrating **user authentication** with your *Node.js CLI*, we will also cover how to create one, and we will make an *API* to authenticate user details! Without wasting such more time, let's goooo!
 
 ## Creating our CLI
