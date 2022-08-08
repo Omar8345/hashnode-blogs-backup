@@ -135,13 +135,13 @@ Now, let’s integrate **Matomo**, open your **Next.js Medusa Store** using your
 
 First of all, you will use `Script` to run the **JS code**, so use this line of code to import `Script`:
 
-```tsx
+```ts
 import Script from "next/script";
 ```
 
 And now, inside your `return()` include a `<Script>` tag with the `strategy` set as `afterInteractive` and optionally the `id` to `matomoAnalytics` so that you can refer to this later. Be sure to add 1 angle brackets (`<>`) and mention an `</>` at the end of `return()`, final code should be like this:
 
-```tsx
+```ts
 <>
 	<Script strategy="afterInteractive" id="matomoAnalytics">
 		{`
