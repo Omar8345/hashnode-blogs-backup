@@ -2,7 +2,7 @@
 
 > *Originally published on [**DevDojo**](https://devdojo.com/omarthedev/how-to-setup-authentication-with-nodejs-cli)*
 
-Hello there! Today we will be integrating **user authentication** with your *Node.js CLI*, we will also cover how to create one, and we will make an *API* to authenticate user details! Without wasting such more time, let's goooo!
+Hello there! Today we will be integrating **user authentication** with your *Node.js CLI*, we will also cover how to create one, and we will make an *API* to authenticate user details! Without wasting much more time, let's go!
 
 ## Creating our CLI
 
@@ -14,7 +14,7 @@ cd mycli
 npm init -y
 ```
 
-Now, let's make a test make a test command like `mycli-help`, so to do that, create an `index.js` file and paste the following code:
+Now, let's make a test command like `mycli-help`, so to do that, create an `index.js` file and paste the following code:
 
 ```js
 #!/usr/bin/env node
@@ -22,13 +22,13 @@ Now, let's make a test make a test command like `mycli-help`, so to do that, cre
 console.log("Hello World!");
 ```
 
-Simply, what we are doing here is actually adding the **shebang** which actually they serve as a way for your operating system program loader to locate and use toe parse the correct interpreter for your executable file. This only works in Unix Systems though.
+Simply, what we are doing here is adding the **shebang** which serves as a way for your operating system program loader to locate and use toe parse the correct interpreter for your executable file. This only works in Unix Systems though.
 
-> In computing, a shebang is the character sequence consisting of the characters number sign and exclamation mark (#!) at the beginning of a script.
+> In computing, a shebang is the character sequence consisting of the character's number sign and exclamation mark (#!) at the beginning of a script.
 >
 > From: **Wikipedia**: https://en.wikipedia.org/wiki/Shebang_(Unix)
 
-And we are simply priting in the console `Hello World!`, so let's edit our `package.json`, so add this `scripts` JSON keypair:
+And we are simply printing in the console `Hello World!`, so let's edit our `package.json`, so add this `scripts` JSON keypair:
 
 ```json
   "scripts": {
@@ -66,19 +66,19 @@ npx create-next-app
 cd my-auth-api
 ```
 
-After that, let's setup our **Prisma** scheme and our *MySQL* database, so first of all let's get the database, for this guide, we will use [**PlanetScale**](https://planetscale.com) or generally a *MySQL* database, it should be the same process, just update your **Scheme configs**.
+After that, let's set up our **Prisma** schema and our *MySQL* database, so first of all let's get the database, for this guide, we will use [**PlanetScale**](https://planetscale.com) or generally a *MySQL* database, it should be the same process, just update your **Schema configs**.
 
-So, head over to *PlanetScale* and create a new *database* if you don't have one yet, it will take a few minutes to get ready, just be paitent, once done, click on **Connect**, choose *Prisma* from the dropdown menu and copy the `.env` file content:
+So, head over to *PlanetScale* and create a new *database* if you don't have one yet, it will take a few minutes to get ready, just be patient, once done, click on **Connect**, choose *Prisma* from the dropdown menu and copy the `.env` file content:
 
 ![](https://i.postimg.cc/R0p449L9/image.png)
 
-Now, let's create a `.env` file and paste the enviorment variables you just copied from **PlanetScale**. Now, let's setup *Prisma* 🚀:
+Now, let's create a `.env` file and paste the environment variables you just copied from **PlanetScale**. Now, let's setup *Prisma* 🚀:
 
 ```bash
 yarn add prisma @prisma/client
 ```
 
-Now, let's checkout our `prisma/schema.prisma` and update the configs, etc. to the following:
+Now, let's check out our `prisma/schema.prisma` and update the configs, etc. to the following:
 
 ```prisma
 generator client {
@@ -111,7 +111,7 @@ npx prisma db push
 
 Now, your **database** is in *sync* with your schema, now let's work on our **API**.
 
-Now, remove `pages/api/hello.js` file and let's create a file in `pages/api/` called `auth.js`, so it should be `pages/api/auth.js`
+Now, remove the `pages/api/hello.js` file, and let's create a file in `pages/api/` called `auth.js`, so it should be `pages/api/auth.js`
 
 Now, place this code in the `auth.js` file:
 
@@ -148,13 +148,13 @@ export default function handler(req, res) {
 
 ```
 
-Simply, what we are doing here, first of all we are importing the `PrismaClient` to use **Prisma**:
+Simply, what we are doing here, first of all, we are importing the `PrismaClient` to use **Prisma**:
 
 ```js
 import { PrismaClient } from '@prisma/client'
 ```
 
-And after that, we are making the **API** and defining the *Prisma Client* so that we can use **Prisma** in the *API*, also we are checking if username and password is provided in JSON:
+And after that, we are making the **API** and defining the *Prisma Client* so that we can use **Prisma** in the *API*, also we are checking if the username and password are provided in JSON:
 
 ```js
   if (!req.body.username || !req.body.password) {
@@ -165,7 +165,7 @@ And after that, we are making the **API** and defining the *Prisma Client* so th
   const prisma = new PrismaClient()
 ```
 
-After creating the *Prisma* client, let's use it to check if a record in our **model** matches with the credentials sent in a JSON request which will be sent from our *CLI*, so we use `findFirst` to check for a matching record and don't worry, as long as the username is unique with the help of `@unique`, same passwords but for different accounts won't effect, so after checking for a matching record, we either get `null` for the value of `account` because there is no such record matching, so we use an condition to return a response in JSON telling that there is an error authenticating the user, and otherwise, we will get the record details including `id`, `username`, `password` in `account`, but we don't need all of this, so we return a response in JSON with a message telling that authentication was successful and we provide the `username` which has been successfully authorized for confirmation:
+After creating the *Prisma* client, let's use it to check if a record in our **model** matches with the credentials sent in a JSON request which will be sent from our *CLI*, so we use `findFirst` to check for a matching record and don't worry, as long as the username is unique with the help of `@unique`, same passwords but for different accounts won't effect, so after checking for a matching record, we either get `null` for the value of `account` because there is no such record matching, so we use a condition to return a response in JSON telling that there is an error authenticating the user, and otherwise, we will get the record details including `id`, `username`, `password` in `account`, but we don't need all of this, so we return a response in JSON with a message telling that authentication was successful and we provide the `username` which has been successfully authorized for confirmation:
 
 ```js
 const findAccount = async (username, password) => {
@@ -234,7 +234,7 @@ request(options, function (error, response, body) {
 );
 ```
 
-So what we are doing is that we are checking if username and password is provided when executing the command, so if both or one of the credentials aren't provided, we will log an error with expecteed usage and exit.
+So what we are doing is that we are checking if username and password are provided when executing the command, so if both or one of the credentials aren't provided, we will log an error with expected usage and exit.
 
 If they are both provided, we import `request` and set options where the API is running accepting JSON requests, setting the method to `POST`, and in the JSON which we will send, we provide `username` and `password`, and then if we get a JSON back with status code `200` which means **OK**, we return the JSON to the user in the console, which is fine, as long as our JSON response is human readable and understandable, you may configure this if you wish 😉.
 
@@ -252,7 +252,7 @@ Now, just edit `mycli-help` to `mycli-auth` in `bin` in the `package.json` file,
   }
 ```
 
-Now, test it out! But first run `npx prisma studio` and go to http://localhost:5000 and check the `Account` model, add a user record which you will be using to authenticate, done? Now:
+Now, test it out! But first, run `npx prisma studio` and go to http://localhost:5000 and check the `Account` model, add a user record which you will be using to authenticate, done? Now:
 
 ```bash
 npm i . -g
