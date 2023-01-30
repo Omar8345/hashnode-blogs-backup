@@ -22,7 +22,7 @@ $ source venv/bin/activate
 (venv) $ pip install flask python-telegram-bot
 ```
 
-Next, let's create a new file called [`app.py`](http://app.py) and set up a basic Flask application:
+Next, let's create a new file called `app.py` and set up a basic Flask application:
 
 ```py
 from flask import Flask, request
@@ -91,7 +91,7 @@ In this example, the function checks if the message contains '/products' and the
 
 ## Step 5: Creating the Medusa Module for Telegram Bot Integration
 
-Create a new file called [`medusa.py`](http://medusa.py) in your project directory. In this file, you can define the Medusa class and any other necessary functions or classes:
+Create a new file called `medusa.py` in your project directory. In this file, you can define the Medusa class and any other necessary functions or classes:
 
 ```py
 import requests
@@ -117,7 +117,7 @@ class Medusa:
         return response.json()
 ```
 
-This is an example of how you can define the Medusa class in [`medusa.py`](http://medusa.py). The class has three methods: `create_product`, `update_product`, and `get_products`. Each method makes a request to the Medusa API using the requests library, passing in the necessary data and headers.
+This is an example of how you can define the Medusa class in `medusa.py`. The class has three methods: `create_product`, `update_product`, and `get_products`. Each method makes a request to the Medusa API using the requests library, passing in the necessary data and headers.
 
 You will need to replace the `base_url` and `api_key` with the actual values for your Medusa instance. Additionally, you may need to modify the methods to match the specific API endpoint and request format for the Medusa API.
 
@@ -131,7 +131,7 @@ Now that the Telegram bot and Medusa module have been set up, it's time to run t
 
 1. **Open** a terminal or command prompt and navigate to the root directory of your bot project.
     
-2. **Start** the bot by running the command python3 [bot.py](http://bot.py) (assuming your main bot file is named "[bot.py](http://bot.py)").
+2. **Start** the bot by running the command `python3 bot.py` (assuming your main bot file is named bot.py).
     
 3. **Open** Telegram and search for your bot's username.
     
