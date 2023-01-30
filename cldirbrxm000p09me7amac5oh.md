@@ -131,7 +131,7 @@ Now that the Telegram bot and Medusa module have been set up, it's time to run t
 
 1. **Open** a terminal or command prompt and navigate to the root directory of your bot project.
     
-2. **Start** the bot by running the command `python3 bot.py` (assuming your main bot file is named bot.py).
+2. **Start** the bot by running the command `python3 bot.py` (assuming your main bot file is named `bot.py`).
     
 3. **Open** Telegram and search for your bot's username.
     
